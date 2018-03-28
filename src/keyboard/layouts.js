@@ -98,7 +98,7 @@ const Layouts = {
   actions: [
     { type: 'backspace', value: 'Del'},
     { type: 'enter', value: 'OK'},
-    { type: 'dismiss', value: 'W'},
+    // { type: 'dismiss', value: 'W'},
   ]
 }
 
